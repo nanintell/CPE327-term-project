@@ -195,8 +195,8 @@ session_start();
                     <img src=\"picture/user.png\" alt=\"\" width=\"100%\">
                     <button onmouseover=\"myFunction()\" class=\"dropbtn\">Sign up</button>
                     <div id=\"myDropdown\" class=\"dropdown-content\">
-                        <a href='customersignup.php'>Customer</a>
-                        <a href='staffregister.php'>Apply for job</a>
+                        <a href='customersignup.html'>Customer</a>
+                        <a href='staffregister.html'>Apply for job</a>
                     </div>
                 </a>
 
@@ -218,7 +218,7 @@ session_start();
                 <!--faq-->
                 <div class="col-sm-4" style="color:white; font-size:25px;text-align:center;">
                     <div class="form-group">
-                        <a href="FAQ.php" class="button1" style="width:50%">
+                        <a href="FAQ.html" class="button1" style="width:50%">
                             <img src="picture/question (1).png" alt="" width="100%">
                             <strong> FAQ</strong>
                         </a>
